@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "name": "Leanne Gra",
+      "username": "Bady",
+      "email": "Sincere@april.biz",
+      "phone": "080-1234-5678",
+      "id": "1"
+    },
+    {
+      "name": "Ervin Howe",
+      "username": "Antonett",
+      "email": "Shanna@melissa.tv",
+      "phone": "090-2345-6789",
+      "id": "2"
+    },
+    {
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "070-3456-7890",
+      "id": "3"
+    },
+    {
+      "id": "6",
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "070-6789-0123"
+    },
+    {
+      "id": "7",
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "phone": "080-7890-1234"
+    },
+    {
+      "id": "8",
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "phone": "090-8901-2345"
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "phone": "070-9012-3456"
+    },
+    {
+      "id": "10",
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "phone": "080-0123-4567"
+    },
+    {
+      "id": "76",
+      "name": "oo",
+      "username": "oo",
+      "email": "oo",
+      "phone": "oo"
+    },
+    {
+      "id": "100",
+      "name": "kkkkk",
+      "username": "kkkkkkkkk",
+      "email": "kkkkkk",
+      "phone": "kkkkkkk"
+    },
+    {
+      "id": "89",
+      "name": "aaaaaaa",
+      "username": "aaa",
+      "email": "aaaa",
+      "phone": "aaaa"
+    }
+  ],
+  "todos": [
+    {
+      "todo": "サークル",
+      "priority": "3",
+      "date": "2024/7/26",
+      "detail": "お風呂とトイレの掃除を重点的にやる",
+      "id": "5"
+    },
+    {
+      "id": "2874",
+      "todo": "買い物",
+      "priority": "3",
+      "date": "2024/7/25",
+      "detail": "お肉と野菜"
+    },
+    {
+      "id": "423",
+      "todo": "hallo",
+      "priority": "1",
+      "date": "2024/7/19",
+      "detail": "bye"
+    },
+    {
+      "id": "4050",
+      "todo": "aaaaaaa",
+      "priority": "3",
+      "date": "2024/7/26",
+      "detail": "aaaaaaa"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "5785",
+      "message": "todoリストが編集されました。",
+      "time": "2024/07/18 20:03:37"
+    },
+    {
+      "id": "2467",
+      "message": "todoリストが更新されました。",
+      "time": "2024/07/18 21:02:27"
+    },
+    {
+      "id": "5340",
+      "message": "todoリストが更新されました。",
+      "time": "2024/07/18 21:02:47"
+    },
+    {
+      "id": "2604",
+      "message": "todoリストが更新されました。",
+      "time": "2024/07/18 21:03:03"
+    },
+    {
+      "id": "4672",
+      "message": "userリストが更新されました。",
+      "time": "2024/07/18 21:03:34"
+    }
+  ]
+}
